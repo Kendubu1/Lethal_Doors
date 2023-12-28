@@ -1,0 +1,23 @@
+{
+    "name": "saintkendricks_modpack",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "Mods for the boys",
+    "dependencies": [
+"notnotnotswipez-MoreCompany-1.7.2",
+"BepInEx-BepInExPack-5.4.2100",
+"x753-More_Suits-1.4.1",
+"Sligili-More_Emotes-1.2.2",
+"anormaltwig-LateCompany-1.0.7",
+"RugbugRedfern-Skinwalkers-2.0.1",
+"RickArg-Helmet_Cameras-2.1.5",
+"FlipMods-ReservedFlashlightSlot-1.5.1",
+"tinyhoot-ShipLoot-1.0.0",
+"MetalPipeSFX-HornMoan-2.1.0",
+"MegaPiggy-BuyableShotgunShells-1.0.1",
+"MegaPiggy-BuyableShotgun-1.0.0",
+"Ryokune-CompatibilityChecker-1.1.6",
+"saint_kendrick-Lethal_Doors-1.0.1"
+
+    ]
+}

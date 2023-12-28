@@ -1,0 +1,7 @@
+{
+  "name": "Lethal_Doors",
+  "version_number": "1.0.1",
+  "website_url": "https://github.com/Kendubu1/Lethal_Doors",
+  "description": "The ships hangar doors become deadly If you're too close while closing. You'll end up severely injured or terminated. The hanger doors in the Ship should be just as Lethal as everything else...",
+  "dependencies": ["BepInEx-BepInExPack-5.4.2100"]
+}
