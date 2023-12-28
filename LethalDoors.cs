@@ -35,7 +35,6 @@ namespace LethalDoors
 
             mls.LogInfo("saintkendrick's Lethal Doors Mod");
             harmony.PatchAll(typeof(DoorInteractionPatch));
-            mls.LogInfo("saintkendrick's Door Patch");
 
 
         }
